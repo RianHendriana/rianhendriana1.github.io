@@ -1,0 +1,29 @@
+body {
+
+  min-height: 3000px;
+
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ecf6fd;
+}
+
+#projects {
+  background-color: #ecf6fd;
+}
+
+section{
+    padding-top: 5rem;
+}
+.navbar{
+    font-family: viga;
+}
+h1{
+    font-family: Signika;
+}
+h2{
+    font-family: viga;
+}
+p{
+    font-family: 'Baloo Thambi 2', cursive;
+}
